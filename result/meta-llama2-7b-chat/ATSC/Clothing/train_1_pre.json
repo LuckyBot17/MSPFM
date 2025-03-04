@@ -1,0 +1,497 @@
+[
+    {
+        "id": "0",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: This is a great shoe . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: I would definitely recommend these tights , especially if you don't have time to change out of them after class like I do , since I have another class on the other side of campus right after ballet.Update : I 've been using these tights for over two months now and still love them , plus the issue with the back of the waist band resolved itself after a couple washings . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: Too fancy , they went back What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: They are not quite as opaque as I had hoped for , ( I bought them to wear with a costume ) however on top of a pair of sheer black pantyhose they are completely opaque and exactly what I wanted . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEG\n\nSentence: we 're too large . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "1",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: It 's just ok . the back flops a little when walking . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: the colors great . What is the sentiment polarity of the aspect ['colors'] ?\nLabel: POS\n\nSentence: Would not buy this again . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Smooth , nice color , sizing right , feet or no feet adjustement good , good band waist . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Has to give to my daughter because it was too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "2",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Otherwise are ok tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEU\n\nSentence: I have Mimosa 's in three colors , camel , dark blue and red . What is the sentiment polarity of the aspect ['Mimosa', \"'s\"] ?\nLabel: NEU\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: NEG\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ... What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "3",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: It fit my daughter just fine . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: It 's okay however I will not be buying another one . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: I love these shoes . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: POS\n\nSentence: I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "4",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: They were big enough and wide enough and PHEWWWWWW ... not super expensive What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: While they aren't as stretchy or soft on the skin as the Danskin microfiber tights , they do fit me comfortably . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: It 's okay however I will not be buying another one . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: In another , though , the upper materials started to flake off ! What is the sentiment polarity of the aspect ['upper', 'materials'] ?\nLabel: NEG\n\nSentence: I am 5 ' and found these tights to be a bit long . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "5",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: There is also a small brown stain on the left shoulder . What is the sentiment polarity of the aspect ['shoulder'] ?\nLabel: NEG\n\nSentence: It fit my daughter just fine . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: I have Mimosa 's in three colors , camel , dark blue and red . What is the sentiment polarity of the aspect ['Mimosa', \"'s\"] ?\nLabel: NEU\n\nSentence: Normally , LifeStride shoes are perfect for me , but not this time . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "6",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: These tights fit well and feel nice and soft ! What is the sentiment polarity of the aspect ['tights'] ?\nLabel: POS\n\nSentence: they stretch out What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I used to really love these tights , I 'll give them one more chance with the normal color , but the white is kind of crappy . What is the sentiment polarity of the aspect ['white'] ?\nLabel: NEG\n\nSentence: : ( And they do n't come any larger . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "7",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: This is a great shoe . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: Snagged right away . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ... What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Pinched my little toes . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "8",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEG\n\nSentence: Normally , LifeStride shoes are perfect for me , but not this time . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: These sandals are very comfortable and give good support . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: They are not quite as opaque as I had hoped for , ( I bought them to wear with a costume ) however on top of a pair of sheer black pantyhose they are completely opaque and exactly what I wanted . What is the sentiment polarity of the aspect ['They'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "9",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Beautiful , awesome boots if you get them from a none junk shop ! What is the sentiment polarity of the aspect ['boots'] ?\nLabel: POS\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: I was skeptical because of the width , but they are just right . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: Good for about 3-4 hours but I have foot pain so it has to be a good shoe to last that long . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: There is also a small brown stain on the left shoulder . What is the sentiment polarity of the aspect ['shoulder'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "10",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEG\n\nSentence: These sandals are very comfortable and give good support . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: the colors great . What is the sentiment polarity of the aspect ['colors'] ?\nLabel: POS\n\nSentence: However , it definitely runs a little small . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Very nice fitting and durable and they really light up your legs.Not very practical for everyday wear but if you really want to show off your legs , these are just the ticket . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "11",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Has to give to my daughter because it was too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: It 's just ok . the back flops a little when walking . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: In another , though , the upper materials started to flake off ! What is the sentiment polarity of the aspect ['upper', 'materials'] ?\nLabel: NEG\n\nSentence: And has become one of my favorite go-tos . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I 'm not even sure how to explain the problem : Even at the tightest supplied hole , it 's way too loose . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "12",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I really love them , but did n't have my size in stock.I really would like to know when my size is in stock . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: It 's okay however I will not be buying another one . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: great alone or under tight jeans What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: It 's a tiny bit short , but since they have open toes they work just fine . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: There is no padding or arch support . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "13",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Sheer and shimmery . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Pinched my little toes . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: There is no padding or arch support . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: My only complaint is they are SUCH a pain to get buckled . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: The only reason for the 4 stars is that this is an open sandal so it will not have the support of a closed in shoe . What is the sentiment polarity of the aspect ['sandal'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "14",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I was skeptical because of the width , but they are just right . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: They were big enough and wide enough and PHEWWWWWW ... not super expensive What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: The black shoes have a soft bed from a fabric that feels almost like fleece and my feet sweat quickly in it.BALANCE : One issue that I have with all four pairs of Capezio shoes that I ordered ( will return 3 ) is that the heel seems to be at a slightly different angle than the front part of the shoe . What is the sentiment polarity of the aspect ['bed'] ?\nLabel: POS\n\nSentence: My only complaint is they are SUCH a pain to get buckled . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "15",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: Recommend them ! What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: Has to give to my daughter because it was too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: They are not uncomfortable , they just do n't fit the same . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: Snagged right away . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "16",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: These tights fit well and feel nice and soft ! What is the sentiment polarity of the aspect ['tights'] ?\nLabel: POS\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: NEG\n\nSentence: Has to give to my daughter because it was too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Smooth , nice color , sizing right , feet or no feet adjustement good , good band waist . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: It 's like walking with the sides of your feet falling over a piece of hard rubber . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "17",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: POS\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: I 've read that Capezio isn't the greatest in quality , but at least they had a nice color selection . What is the sentiment polarity of the aspect ['quality'] ?\nLabel: NEU\n\nSentence: Quality is okay . What is the sentiment polarity of the aspect ['Quality'] ?\nLabel: NEU\n\nSentence: Fitted as I expected and snug : D too bad my time with it lasted a short while since it got hot pretty fast ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "18",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I have much better luck with tights , but needed something that could serve the purpose of pantyhose on my closet . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: POS\n\nSentence: I loved them.I wear the sandals about twice a week and today the strap broke . What is the sentiment polarity of the aspect ['strap'] ?\nLabel: NEG\n\nSentence: While they aren't as stretchy or soft on the skin as the Danskin microfiber tights , they do fit me comfortably . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: they fit as expected . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: Very happy with my order and the products arrived as promised . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "19",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Smooth , nice color , sizing right , feet or no feet adjustement good , good band waist . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: When the right size is purchased they fit fantastic , very comfortable and make it do much easier to dance . What is the sentiment polarity of the aspect ['they'] ?\nLabel: POS\n\nSentence: I really love them , but did n't have my size in stock.I really would like to know when my size is in stock . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: They probably would 've be fine but decided not to reorder . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: Would not buy this again . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "20",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: No complaints on service and packaging . What is the sentiment polarity of the aspect ['service'] ?\nLabel: NEU\n\nSentence: They 're what I expected given the reviews . What is the sentiment polarity of the aspect ['They'] ?\nLabel: POS\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: I own one in every color that it is available . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "21",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Which are extra , super shiny , like they might have glitter sewn in them or something . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: These sandals are very comfortable and give good support . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: It fit my daughter just fine . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Too fancy , they went back What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "22",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: I have much better luck with tights , but needed something that could serve the purpose of pantyhose on my closet . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: POS\n\nSentence: I am 5 ' and found these tights to be a bit long . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEG\n\nSentence: Would not buy this again . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I loved them.I wear the sandals about twice a week and today the strap broke . What is the sentiment polarity of the aspect ['strap'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "23",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I would definitely recommend these tights , especially if you don't have time to change out of them after class like I do , since I have another class on the other side of campus right after ballet.Update : I 've been using these tights for over two months now and still love them , plus the issue with the back of the waist band resolved itself after a couple washings . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: Love this shoe . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEU\n\nSentence: the color is as picture . What is the sentiment polarity of the aspect ['color'] ?\nLabel: NEU\n\nSentence: My only issue is that the back of the waist band is a little prickly , but I just turn it over and it 's fine . What is the sentiment polarity of the aspect ['waist', 'band'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "24",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Other than that the shirt appears to be of good quality . What is the sentiment polarity of the aspect ['quality'] ?\nLabel: POS\n\nSentence: It 's like walking with the sides of your feet falling over a piece of hard rubber . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Soft , thick and rugged . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: They are a bit heavier than I would have thought but not uncomfortable . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: However , it definitely runs a little small . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "25",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: great alone or under tight jeans What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I have been wearing these same for years glad I could get again*the only Sandal that I found so comfortable . What is the sentiment polarity of the aspect ['Sandal'] ?\nLabel: POS\n\nSentence: There is no padding or arch support . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: It 's like walking with the sides of your feet falling over a piece of hard rubber . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "26",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Normally , LifeStride shoes are perfect for me , but not this time . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I 've read that Capezio isn't the greatest in quality , but at least they had a nice color selection . What is the sentiment polarity of the aspect ['quality'] ?\nLabel: NEU\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: Too fancy , they went back What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: Way too expensive for a one-time-use . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "27",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I own one in every color that it is available . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: NEG\n\nSentence: the color is as picture . What is the sentiment polarity of the aspect ['color'] ?\nLabel: NEU\n\nSentence: The heel is just right . What is the sentiment polarity of the aspect ['heel'] ?\nLabel: NEU\n\nSentence: Wayyyyy too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "28",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I 'm not even sure how to explain the problem : Even at the tightest supplied hole , it 's way too loose . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Would not buy this again . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Having danced for many years I love the coverage , little extra warmth these tighter tights give you - vs the store bought everyday tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEU\n\nSentence: Soft , thick and rugged . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Liked them , but returned them because of fit . What is the sentiment polarity of the aspect ['them'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "29",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Wayyyyy too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Snagged right away . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Beautiful , awesome boots if you get them from a none junk shop ! What is the sentiment polarity of the aspect ['boots'] ?\nLabel: POS\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: I used to really love these tights , I 'll give them one more chance with the normal color , but the white is kind of crappy . What is the sentiment polarity of the aspect ['white'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "30",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I am 5 ' and found these tights to be a bit long . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEG\n\nSentence: the colors great . What is the sentiment polarity of the aspect ['colors'] ?\nLabel: POS\n\nSentence: Smooth , nice color , sizing right , feet or no feet adjustement good , good band waist . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Very very comfortable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: In another , though , the upper materials started to flake off ! What is the sentiment polarity of the aspect ['upper', 'materials'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "31",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: the color is as picture . What is the sentiment polarity of the aspect ['color'] ?\nLabel: NEU\n\nSentence: The heel is just right . What is the sentiment polarity of the aspect ['heel'] ?\nLabel: NEU\n\nSentence: Very very comfortable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: It fit my daughter just fine . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: While they aren't as stretchy or soft on the skin as the Danskin microfiber tights , they do fit me comfortably . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "32",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: They are very soft and I like how they 'transition ' . What is the sentiment polarity of the aspect ['they'] ?\nLabel: POS\n\nSentence: The black shoes have a soft bed from a fabric that feels almost like fleece and my feet sweat quickly in it.BALANCE : One issue that I have with all four pairs of Capezio shoes that I ordered ( will return 3 ) is that the heel seems to be at a slightly different angle than the front part of the shoe . What is the sentiment polarity of the aspect ['bed'] ?\nLabel: POS\n\nSentence: the color is as picture . What is the sentiment polarity of the aspect ['color'] ?\nLabel: NEU\n\nSentence: I am 5 ' and found these tights to be a bit long . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEG\n\nSentence: I followed the Capezio size guide and these were very small on my daughter . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEG"
+    },
+    {
+        "id": "33",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Other than that the shirt appears to be of good quality . What is the sentiment polarity of the aspect ['quality'] ?\nLabel: POS\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Very happy with my order and the products arrived as promised . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Fitted as I expected and snug : D too bad my time with it lasted a short while since it got hot pretty fast ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Which are extra , super shiny , like they might have glitter sewn in them or something . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "34",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: They are not uncomfortable , they just do n't fit the same . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: It 's okay however I will not be buying another one . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Too fancy , they went back What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: It fit my daughter just fine . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "35",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: My only issue is that the back of the waist band is a little prickly , but I just turn it over and it 's fine . What is the sentiment polarity of the aspect ['waist', 'band'] ?\nLabel: NEG\n\nSentence: : ( And they do n't come any larger . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: They 're what I expected given the reviews . What is the sentiment polarity of the aspect ['They'] ?\nLabel: POS\n\nSentence: Liked them , but returned them because of fit . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "36",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Otherwise are ok tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEU\n\nSentence: Way too expensive for a one-time-use . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: No complaints on service and packaging . What is the sentiment polarity of the aspect ['service'] ?\nLabel: NEU\n\nSentence: When the right size is purchased they fit fantastic , very comfortable and make it do much easier to dance . What is the sentiment polarity of the aspect ['they'] ?\nLabel: POS\n\nSentence: These shoes were exactly as ordered , white color matched , shoes are very comfortable and I would order them again if needed . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "37",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I 've read that Capezio isn't the greatest in quality , but at least they had a nice color selection . What is the sentiment polarity of the aspect ['quality'] ?\nLabel: NEU\n\nSentence: The back elastic heel strap helps and fits great - no slipping . What is the sentiment polarity of the aspect ['heel', 'strap'] ?\nLabel: POS\n\nSentence: I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ... What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: NEG\n\nSentence: Otherwise are ok tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "38",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: They fit her perfectly and she reported that they were soft and comfortable . What is the sentiment polarity of the aspect ['They'] ?\nLabel: POS\n\nSentence: My only complaint is they are SUCH a pain to get buckled . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: And has become one of my favorite go-tos . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Dancer was just glad to be covered and look like the other Ballerinas.We approve ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Very nice fitting and durable and they really light up your legs.Not very practical for everyday wear but if you really want to show off your legs , these are just the ticket . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "39",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I followed the Capezio size guide and these were very small on my daughter . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Very nice fitting and durable and they really light up your legs.Not very practical for everyday wear but if you really want to show off your legs , these are just the ticket . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: These shoes were exactly as ordered , white color matched , shoes are very comfortable and I would order them again if needed . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: NEU\n\nSentence: I own one in every color that it is available . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: it fit okay What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "40",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: The black shoes have a soft bed from a fabric that feels almost like fleece and my feet sweat quickly in it.BALANCE : One issue that I have with all four pairs of Capezio shoes that I ordered ( will return 3 ) is that the heel seems to be at a slightly different angle than the front part of the shoe . What is the sentiment polarity of the aspect ['bed'] ?\nLabel: POS\n\nSentence: They are not uncomfortable , they just do n't fit the same . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: The back elastic heel strap helps and fits great - no slipping . What is the sentiment polarity of the aspect ['heel', 'strap'] ?\nLabel: POS\n\nSentence: It 's okay however I will not be buying another one . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "41",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: Very nice fitting and durable and they really light up your legs.Not very practical for everyday wear but if you really want to show off your legs , these are just the ticket . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: It 's okay however I will not be buying another one . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Pinched my little toes . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: they stretch out What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "42",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Having danced for many years I love the coverage , little extra warmth these tighter tights give you - vs the store bought everyday tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEU\n\nSentence: I would definitely recommend these tights , especially if you don't have time to change out of them after class like I do , since I have another class on the other side of campus right after ballet.Update : I 've been using these tights for over two months now and still love them , plus the issue with the back of the waist band resolved itself after a couple washings . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: I was skeptical because of the width , but they are just right . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: Has to give to my daughter because it was too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: They were big enough and wide enough and PHEWWWWWW ... not super expensive What is the sentiment polarity of the aspect ['They'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "43",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Very very comfortable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort . What is the sentiment polarity of the aspect ['comfort'] ?\nLabel: POS\n\nSentence: I was skeptical because of the width , but they are just right . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "44",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: And has become one of my favorite go-tos . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Pinched my little toes . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: POS\n\nSentence: I really love them , but did n't have my size in stock.I really would like to know when my size is in stock . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: I have Mimosa 's in three colors , camel , dark blue and red . What is the sentiment polarity of the aspect ['Mimosa', \"'s\"] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "45",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Too fancy , they went back What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: I followed the Capezio size guide and these were very small on my daughter . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEG\n\nSentence: Normally , LifeStride shoes are perfect for me , but not this time . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Quality is okay . What is the sentiment polarity of the aspect ['Quality'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "46",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: the colors great . What is the sentiment polarity of the aspect ['colors'] ?\nLabel: POS\n\nSentence: I loved them.I wear the sandals about twice a week and today the strap broke . What is the sentiment polarity of the aspect ['strap'] ?\nLabel: NEG\n\nSentence: Soft , thick and rugged . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: It 's just ok . the back flops a little when walking . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: No complaints on service and packaging . What is the sentiment polarity of the aspect ['service'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "47",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Dancer was just glad to be covered and look like the other Ballerinas.We approve ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: POS\n\nSentence: the colors great . What is the sentiment polarity of the aspect ['colors'] ?\nLabel: POS\n\nSentence: Perfect for the dock side picnic for which they were purchased , the price was also just right . What is the sentiment polarity of the aspect ['price'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "48",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Purchased for my wife , she loves it , fits a little large though but still manageable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Quality is okay . What is the sentiment polarity of the aspect ['Quality'] ?\nLabel: NEU\n\nSentence: I have Mimosa 's in three colors , camel , dark blue and red . What is the sentiment polarity of the aspect ['Mimosa', \"'s\"] ?\nLabel: NEU\n\nSentence: Perfect for the dock side picnic for which they were purchased , the price was also just right . What is the sentiment polarity of the aspect ['price'] ?\nLabel: NEU\n\nSentence: Love this shoe . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "49",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: the color is as picture . What is the sentiment polarity of the aspect ['color'] ?\nLabel: NEU\n\nSentence: Good for about 3-4 hours but I have foot pain so it has to be a good shoe to last that long . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: Would not buy this again . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Order size up What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "50",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: These sandals are very comfortable and give good support . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: These tights fit well and feel nice and soft ! What is the sentiment polarity of the aspect ['tights'] ?\nLabel: POS\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: There is also a small brown stain on the left shoulder . What is the sentiment polarity of the aspect ['shoulder'] ?\nLabel: NEG\n\nSentence: Sheer and shimmery . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "51",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Order size up What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Very happy with my order and the products arrived as promised . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I 'm not even sure how to explain the problem : Even at the tightest supplied hole , it 's way too loose . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Fitted as I expected and snug : D too bad my time with it lasted a short while since it got hot pretty fast ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I 've read that Capezio isn't the greatest in quality , but at least they had a nice color selection . What is the sentiment polarity of the aspect ['quality'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "52",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: My only complaint is they are SUCH a pain to get buckled . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: They were big enough and wide enough and PHEWWWWWW ... not super expensive What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort . What is the sentiment polarity of the aspect ['comfort'] ?\nLabel: POS\n\nSentence: Purchased for my wife , she loves it , fits a little large though but still manageable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: the color is as picture . What is the sentiment polarity of the aspect ['color'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "53",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I love these shoes . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: POS\n\nSentence: There is also a small brown stain on the left shoulder . What is the sentiment polarity of the aspect ['shoulder'] ?\nLabel: NEG\n\nSentence: It 's a tiny bit short , but since they have open toes they work just fine . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ... What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: The heel is just right . What is the sentiment polarity of the aspect ['heel'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "54",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I love these shoes . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: POS\n\nSentence: Which are extra , super shiny , like they might have glitter sewn in them or something . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: Normally , LifeStride shoes are perfect for me , but not this time . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I love this shoe ! What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: These shoes were exactly as ordered , white color matched , shoes are very comfortable and I would order them again if needed . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "55",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: Other than that the shirt appears to be of good quality . What is the sentiment polarity of the aspect ['quality'] ?\nLabel: POS\n\nSentence: Beautiful , awesome boots if you get them from a none junk shop ! What is the sentiment polarity of the aspect ['boots'] ?\nLabel: POS\n\nSentence: Normally , LifeStride shoes are perfect for me , but not this time . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: They probably would 've be fine but decided not to reorder . What is the sentiment polarity of the aspect ['They'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "56",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: It 's just ok . the back flops a little when walking . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: Recommend them ! What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: My one foot is slightly wider then the other so its a little tighter on that foot but there breaking in just fine Ive worn them 4 hrs at a time with no problems so far . What is the sentiment polarity of the aspect ['them'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "57",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: the color is as picture . What is the sentiment polarity of the aspect ['color'] ?\nLabel: NEU\n\nSentence: Wayyyyy too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: In another , though , the upper materials started to flake off ! What is the sentiment polarity of the aspect ['upper', 'materials'] ?\nLabel: NEG\n\nSentence: And has become one of my favorite go-tos . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I was skeptical because of the width , but they are just right . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "58",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: they stretch out What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: They are a bit heavier than I would have thought but not uncomfortable . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I own one in every color that it is available . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "59",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I own one in every color that it is available . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Having danced for many years I love the coverage , little extra warmth these tighter tights give you - vs the store bought everyday tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEU\n\nSentence: it fit okay What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: They 're what I expected given the reviews . What is the sentiment polarity of the aspect ['They'] ?\nLabel: POS\n\nSentence: It was OK to me but few times later it came with noise from each single step . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "60",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: These tights fit well and feel nice and soft ! What is the sentiment polarity of the aspect ['tights'] ?\nLabel: POS\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: POS\n\nSentence: Has to give to my daughter because it was too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I have been wearing these same for years glad I could get again*the only Sandal that I found so comfortable . What is the sentiment polarity of the aspect ['Sandal'] ?\nLabel: POS\n\nSentence: It 's just ok . the back flops a little when walking . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "61",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Quality is okay . What is the sentiment polarity of the aspect ['Quality'] ?\nLabel: NEU\n\nSentence: I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort . What is the sentiment polarity of the aspect ['comfort'] ?\nLabel: POS\n\nSentence: They are not quite as opaque as I had hoped for , ( I bought them to wear with a costume ) however on top of a pair of sheer black pantyhose they are completely opaque and exactly what I wanted . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEG\n\nSentence: They probably would 've be fine but decided not to reorder . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: It 's a tiny bit short , but since they have open toes they work just fine . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "62",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: It 's like walking with the sides of your feet falling over a piece of hard rubber . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: They 're what I expected given the reviews . What is the sentiment polarity of the aspect ['They'] ?\nLabel: POS\n\nSentence: My one foot is slightly wider then the other so its a little tighter on that foot but there breaking in just fine Ive worn them 4 hrs at a time with no problems so far . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEU\n\nSentence: Soft , thick and rugged . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: They are a bit heavier than I would have thought but not uncomfortable . What is the sentiment polarity of the aspect ['They'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "63",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I am 5 ' and found these tights to be a bit long . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEG\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: Very happy with my order and the products arrived as promised . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: Having danced for many years I love the coverage , little extra warmth these tighter tights give you - vs the store bought everyday tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "64",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: When the right size is purchased they fit fantastic , very comfortable and make it do much easier to dance . What is the sentiment polarity of the aspect ['they'] ?\nLabel: POS\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I really love them , but did n't have my size in stock.I really would like to know when my size is in stock . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: They are a bit heavier than I would have thought but not uncomfortable . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: they fit as expected . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "65",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Good for about 3-4 hours but I have foot pain so it has to be a good shoe to last that long . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: There is also a small brown stain on the left shoulder . What is the sentiment polarity of the aspect ['shoulder'] ?\nLabel: NEG\n\nSentence: These shoes were exactly as ordered , white color matched , shoes are very comfortable and I would order them again if needed . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: NEU\n\nSentence: Wayyyyy too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: They are not uncomfortable , they just do n't fit the same . What is the sentiment polarity of the aspect ['They'] ?\nLabel: ",
+        "label": "NEU"
+    },
+    {
+        "id": "66",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Recommend them ! What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: Good for about 3-4 hours but I have foot pain so it has to be a good shoe to last that long . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: Perfect for the dock side picnic for which they were purchased , the price was also just right . What is the sentiment polarity of the aspect ['price'] ?\nLabel: NEU\n\nSentence: Quality is okay . What is the sentiment polarity of the aspect ['Quality'] ?\nLabel: NEU\n\nSentence: They 're what I expected given the reviews . What is the sentiment polarity of the aspect ['They'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "67",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I looked at dozens and liked this one immediately.I think she will be very pleased . What is the sentiment polarity of the aspect ['this', 'one'] ?\nLabel: POS\n\nSentence: The heel is just right . What is the sentiment polarity of the aspect ['heel'] ?\nLabel: NEU\n\nSentence: the colors great . What is the sentiment polarity of the aspect ['colors'] ?\nLabel: POS\n\nSentence: I 'm not even sure how to explain the problem : Even at the tightest supplied hole , it 's way too loose . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I would definitely recommend these tights , especially if you don't have time to change out of them after class like I do , since I have another class on the other side of campus right after ballet.Update : I 've been using these tights for over two months now and still love them , plus the issue with the back of the waist band resolved itself after a couple washings . What is the sentiment polarity of the aspect ['them'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "68",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Good for about 3-4 hours but I have foot pain so it has to be a good shoe to last that long . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: But then when I found it on your site recently , I was thrilled , and ordered another pair . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Otherwise are ok tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEU\n\nSentence: I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEG\n\nSentence: And has become one of my favorite go-tos . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "69",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: My only complaint is they are SUCH a pain to get buckled . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: But then when I found it on your site recently , I was thrilled , and ordered another pair . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I own one in every color that it is available . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: The back elastic heel strap helps and fits great - no slipping . What is the sentiment polarity of the aspect ['heel', 'strap'] ?\nLabel: POS\n\nSentence: They are very soft and I like how they 'transition ' . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "70",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: : ( And they do n't come any larger . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: No complaints on service and packaging . What is the sentiment polarity of the aspect ['service'] ?\nLabel: NEU\n\nSentence: My only issue is that the back of the waist band is a little prickly , but I just turn it over and it 's fine . What is the sentiment polarity of the aspect ['waist', 'band'] ?\nLabel: NEG\n\nSentence: I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEG\n\nSentence: Recommend them ! What is the sentiment polarity of the aspect ['them'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "71",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ... What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Smooth , nice color , sizing right , feet or no feet adjustement good , good band waist . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I loved them.I wear the sandals about twice a week and today the strap broke . What is the sentiment polarity of the aspect ['strap'] ?\nLabel: NEG\n\nSentence: They are not uncomfortable , they just do n't fit the same . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "72",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Very nice fitting and durable and they really light up your legs.Not very practical for everyday wear but if you really want to show off your legs , these are just the ticket . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ... What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: The black shoes have a soft bed from a fabric that feels almost like fleece and my feet sweat quickly in it.BALANCE : One issue that I have with all four pairs of Capezio shoes that I ordered ( will return 3 ) is that the heel seems to be at a slightly different angle than the front part of the shoe . What is the sentiment polarity of the aspect ['bed'] ?\nLabel: POS\n\nSentence: I really love them , but did n't have my size in stock.I really would like to know when my size is in stock . What is the sentiment polarity of the aspect ['them'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "73",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: : ( And they do n't come any larger . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: I was skeptical because of the width , but they are just right . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort . What is the sentiment polarity of the aspect ['comfort'] ?\nLabel: POS\n\nSentence: I loved them.I wear the sandals about twice a week and today the strap broke . What is the sentiment polarity of the aspect ['strap'] ?\nLabel: NEG\n\nSentence: They fit her perfectly and she reported that they were soft and comfortable . What is the sentiment polarity of the aspect ['They'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "74",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: While they aren't as stretchy or soft on the skin as the Danskin microfiber tights , they do fit me comfortably . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: Wayyyyy too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: When the right size is purchased they fit fantastic , very comfortable and make it do much easier to dance . What is the sentiment polarity of the aspect ['they'] ?\nLabel: POS\n\nSentence: it fit okay What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "75",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort . What is the sentiment polarity of the aspect ['comfort'] ?\nLabel: POS\n\nSentence: great alone or under tight jeans What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Recommend them ! What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: They 're what I expected given the reviews . What is the sentiment polarity of the aspect ['They'] ?\nLabel: POS\n\nSentence: I have much better luck with tights , but needed something that could serve the purpose of pantyhose on my closet . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "76",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort . What is the sentiment polarity of the aspect ['comfort'] ?\nLabel: POS\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: NEG\n\nSentence: They are not quite as opaque as I had hoped for , ( I bought them to wear with a costume ) however on top of a pair of sheer black pantyhose they are completely opaque and exactly what I wanted . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEG\n\nSentence: I would definitely recommend these tights , especially if you don't have time to change out of them after class like I do , since I have another class on the other side of campus right after ballet.Update : I 've been using these tights for over two months now and still love them , plus the issue with the back of the waist band resolved itself after a couple washings . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: The black shoes have a soft bed from a fabric that feels almost like fleece and my feet sweat quickly in it.BALANCE : One issue that I have with all four pairs of Capezio shoes that I ordered ( will return 3 ) is that the heel seems to be at a slightly different angle than the front part of the shoe . What is the sentiment polarity of the aspect ['bed'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "77",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I really love them , but did n't have my size in stock.I really would like to know when my size is in stock . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: it fit okay What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Way too expensive for a one-time-use . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Sheer and shimmery . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: great alone or under tight jeans What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "78",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ... What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Dancer was just glad to be covered and look like the other Ballerinas.We approve ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: While they aren't as stretchy or soft on the skin as the Danskin microfiber tights , they do fit me comfortably . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: The only reason for the 4 stars is that this is an open sandal so it will not have the support of a closed in shoe . What is the sentiment polarity of the aspect ['sandal'] ?\nLabel: NEG\n\nSentence: Very very comfortable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "79",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: When the right size is purchased they fit fantastic , very comfortable and make it do much easier to dance . What is the sentiment polarity of the aspect ['they'] ?\nLabel: POS\n\nSentence: Very very comfortable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Purchased for my wife , she loves it , fits a little large though but still manageable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: These tights fit well and feel nice and soft ! What is the sentiment polarity of the aspect ['tights'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "80",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Which are extra , super shiny , like they might have glitter sewn in them or something . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: I have Mimosa 's in three colors , camel , dark blue and red . What is the sentiment polarity of the aspect ['Mimosa', \"'s\"] ?\nLabel: NEU\n\nSentence: They 're what I expected given the reviews . What is the sentiment polarity of the aspect ['They'] ?\nLabel: POS\n\nSentence: Wayyyyy too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I love these shoes . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "81",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: However , it definitely runs a little small . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Very very comfortable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: It fit my daughter just fine . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: They are very soft and I like how they 'transition ' . What is the sentiment polarity of the aspect ['they'] ?\nLabel: POS\n\nSentence: The back elastic heel strap helps and fits great - no slipping . What is the sentiment polarity of the aspect ['heel', 'strap'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "82",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Pinched my little toes . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I loved them.I wear the sandals about twice a week and today the strap broke . What is the sentiment polarity of the aspect ['strap'] ?\nLabel: NEG\n\nSentence: Has to give to my daughter because it was too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Beautiful , awesome boots if you get them from a none junk shop ! What is the sentiment polarity of the aspect ['boots'] ?\nLabel: POS\n\nSentence: Smooth , nice color , sizing right , feet or no feet adjustement good , good band waist . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "83",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: It 's like walking with the sides of your feet falling over a piece of hard rubber . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Very very comfortable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Has to give to my daughter because it was too small What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Good for about 3-4 hours but I have foot pain so it has to be a good shoe to last that long . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "84",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Purchased for my wife , she loves it , fits a little large though but still manageable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Fitted as I expected and snug : D too bad my time with it lasted a short while since it got hot pretty fast ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: the color is as picture . What is the sentiment polarity of the aspect ['color'] ?\nLabel: NEU\n\nSentence: Dancer was just glad to be covered and look like the other Ballerinas.We approve ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "85",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: The back elastic heel strap helps and fits great - no slipping . What is the sentiment polarity of the aspect ['heel', 'strap'] ?\nLabel: POS\n\nSentence: I 'm not even sure how to explain the problem : Even at the tightest supplied hole , it 's way too loose . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Love this shoe . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEU\n\nSentence: I have been wearing these same for years glad I could get again*the only Sandal that I found so comfortable . What is the sentiment polarity of the aspect ['Sandal'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "86",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: And has become one of my favorite go-tos . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: it fit okay What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Soft , thick and rugged . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: Very nice fitting and durable and they really light up your legs.Not very practical for everyday wear but if you really want to show off your legs , these are just the ticket . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort . What is the sentiment polarity of the aspect ['comfort'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "87",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: But then when I found it on your site recently , I was thrilled , and ordered another pair . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I am 5 ' and found these tights to be a bit long . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEG\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I looked at dozens and liked this one immediately.I think she will be very pleased . What is the sentiment polarity of the aspect ['this', 'one'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "88",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Dancer was just glad to be covered and look like the other Ballerinas.We approve ! What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I would definitely recommend these tights , especially if you don't have time to change out of them after class like I do , since I have another class on the other side of campus right after ballet.Update : I 've been using these tights for over two months now and still love them , plus the issue with the back of the waist band resolved itself after a couple washings . What is the sentiment polarity of the aspect ['them'] ?\nLabel: POS\n\nSentence: Soft , thick and rugged . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I did order these a half size up and am super glad I did ... my daughter wears a size 7 always and the 7.5 fits perfectly . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: I love this shoe ! What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "89",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Otherwise are ok tights . What is the sentiment polarity of the aspect ['tights'] ?\nLabel: NEU\n\nSentence: I love this shoe ! What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: These sandals are very comfortable and give good support . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: Liked them , but returned them because of fit . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: the colors great . What is the sentiment polarity of the aspect ['colors'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "90",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: The black shoes have a soft bed from a fabric that feels almost like fleece and my feet sweat quickly in it.BALANCE : One issue that I have with all four pairs of Capezio shoes that I ordered ( will return 3 ) is that the heel seems to be at a slightly different angle than the front part of the shoe . What is the sentiment polarity of the aspect ['bed'] ?\nLabel: POS\n\nSentence: Smooth , nice color , sizing right , feet or no feet adjustement good , good band waist . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: They worked but can definitely stretch for a taller person . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: Other than that the shirt appears to be of good quality . What is the sentiment polarity of the aspect ['quality'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "91",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: the colors great . What is the sentiment polarity of the aspect ['colors'] ?\nLabel: POS\n\nSentence: These tights fit well and feel nice and soft ! What is the sentiment polarity of the aspect ['tights'] ?\nLabel: POS\n\nSentence: It was OK to me but few times later it came with noise from each single step . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: However , it definitely runs a little small . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: When the right size is purchased they fit fantastic , very comfortable and make it do much easier to dance . What is the sentiment polarity of the aspect ['they'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "92",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I ordered this sweatshirt for my husband and he is really very pleased with the fit , the warmth and the comfort . What is the sentiment polarity of the aspect ['comfort'] ?\nLabel: POS\n\nSentence: Sheer and shimmery . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Too fancy , they went back What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: The back elastic heel strap helps and fits great - no slipping . What is the sentiment polarity of the aspect ['heel', 'strap'] ?\nLabel: POS\n\nSentence: I was somewhat upset , but the shoes are well made , just not sized correctly . What is the sentiment polarity of the aspect ['shoes'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "93",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: These shoes were exactly as ordered , white color matched , shoes are very comfortable and I would order them again if needed . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Which are extra , super shiny , like they might have glitter sewn in them or something . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: These tights fit well and feel nice and soft ! What is the sentiment polarity of the aspect ['tights'] ?\nLabel: POS\n\nSentence: I really like the sandals . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: But then when I found it on your site recently , I was thrilled , and ordered another pair . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "94",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I loved them.I wear the sandals about twice a week and today the strap broke . What is the sentiment polarity of the aspect ['strap'] ?\nLabel: NEG\n\nSentence: I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEG\n\nSentence: And has become one of my favorite go-tos . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: The heel is just right . What is the sentiment polarity of the aspect ['heel'] ?\nLabel: NEU\n\nSentence: These sandals are very comfortable and give good support . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "95",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Liked them , but returned them because of fit . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: I loved them.I wear the sandals about twice a week and today the strap broke . What is the sentiment polarity of the aspect ['strap'] ?\nLabel: NEG\n\nSentence: My only complaint is they are SUCH a pain to get buckled . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEG\n\nSentence: They are not quite as opaque as I had hoped for , ( I bought them to wear with a costume ) however on top of a pair of sheer black pantyhose they are completely opaque and exactly what I wanted . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEG\n\nSentence: Purchased for my wife , she loves it , fits a little large though but still manageable . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "96",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: And has become one of my favorite go-tos . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: POS\n\nSentence: These sandals are very comfortable and give good support . What is the sentiment polarity of the aspect ['sandals'] ?\nLabel: POS\n\nSentence: The back elastic heel strap helps and fits great - no slipping . What is the sentiment polarity of the aspect ['heel', 'strap'] ?\nLabel: POS\n\nSentence: She will not be able to use them . What is the sentiment polarity of the aspect ['them'] ?\nLabel: NEG\n\nSentence: Soft , thick and rugged . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "97",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: Good for about 3-4 hours but I have foot pain so it has to be a good shoe to last that long . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: POS\n\nSentence: I was skeptical because of the width , but they are just right . What is the sentiment polarity of the aspect ['they'] ?\nLabel: NEU\n\nSentence: I did not like this at all ... fit was too large and it 's too old ladyish for me ... sorry but had to return it ... What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEG\n\nSentence: Will work just fine for her school performances . What is the sentiment polarity of the aspect ['NULL'] ?\nLabel: NEU\n\nSentence: Beautiful , awesome boots if you get them from a none junk shop ! What is the sentiment polarity of the aspect ['boots'] ?\nLabel: ",
+        "label": "POS"
+    },
+    {
+        "id": "98",
+        "input_all_tokens": "Recognize the sentiment polarity for the given aspect term in the sentence. Here are some examples:\n\nSentence: I have Mimosa 's in three colors , camel , dark blue and red . What is the sentiment polarity of the aspect ['Mimosa', \"'s\"] ?\nLabel: NEU\n\nSentence: There is also a small brown stain on the left shoulder . What is the sentiment polarity of the aspect ['shoulder'] ?\nLabel: NEG\n\nSentence: I was told on the site the shoe ran small , so I ordered a 1/2 size larger ( I normally wear a 9 but got a 9 1/2 . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: NEG\n\nSentence: They probably would 've be fine but decided not to reorder . What is the sentiment polarity of the aspect ['They'] ?\nLabel: NEU\n\nSentence: This is a great shoe . What is the sentiment polarity of the aspect ['shoe'] ?\nLabel: ",
+        "label": "POS"
+    }
+]
