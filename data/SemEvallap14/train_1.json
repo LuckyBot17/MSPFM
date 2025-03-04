@@ -1,0 +1,695 @@
+[
+  {
+    "sentence":"the mouse is way way way to sensitve .",
+    "aspect":"mouse",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"This is not a serious gaming laptop or a serious media machine ;",
+    "aspect":"gaming",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Fan noise : The fan made a constant hissing noise in the background .",
+    "aspect":"Fan",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I had something else go wrong and they said it had to be in good working order to be able to buy the warranty .",
+    "aspect":"warranty",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Do you think I purposely `` destroy '' my netbook , so that I can demand a new set ? Do you think it 's fun to take public transport all the way to the service center and get a non-satisfactory solution ? Or rather NO solution .",
+    "aspect":"service center",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I think that if it is the motherboard again so soon that they should replace it .",
+    "aspect":"motherboard",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The `` abuse '' is that I pushed the power plug in too hard .",
+    "aspect":"power plug",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSE N'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS",
+    "aspect":"CHARGE TIME",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"There is no cd drive on the computer , which defeats the purpose of keeping files on a cd .",
+    "aspect":"cd drive",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"tons of bloatware and junk programs .",
+    "aspect":"programs",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Windows Vista makes this computer almost unusable for online service .",
+    "aspect":"online service",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen .",
+    "aspect":"touchpad",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I have Vista , so I am unable to install and uninstall some programs .",
+    "aspect":"programs",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The screen is a little glary , and I hated the clicking buttons , but I got used to them .",
+    "aspect":"clicking buttons",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"My husband got me this for Chrismas after getting me a very expensve laptop that did not work after 2 days .",
+    "aspect":"work",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The speakers on it are useless too .",
+    "aspect":"speakers",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I have other computers that get strong signals that do n't drop in places that this `` net `` book loses its signal .",
+    "aspect":"signal",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Not to mention sometimes the whole charger unit will decide not to work entirely .",
+    "aspect":"charger unit",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"keys are all in weird places and is way too large for the way it is designed .",
+    "aspect":"keys",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"4 ) Laptop still did not work , blue screen within a week ...",
+    "aspect":"work",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"High price tag , however .",
+    "aspect":"price tag",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I can barely use any usb devices because they will not stay connected properly .",
+    "aspect":"usb devices",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"But sadly the replacement froze-up while updating the BIOS again and shut down and would not turn back on .",
+    "aspect":"BIOS",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"But we had paid for bluetooth , and there was none .",
+    "aspect":"bluetooth",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The biggest problem is that the box had no instructions in it .",
+    "aspect":"instructions",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Also , I issued a replacement RMA for a few dead pixels in the upper zone of the screen , which is noticable to me .",
+    "aspect":"screen",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Externally the keys on my keyboard are falling off , after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit , and the screen has a terrible glare .",
+    "aspect":"screen",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Oh yeah , do n't forget the expensive shipping to and from HP .",
+    "aspect":"shipping",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I noticed windows has a new system called Windows 7 , what about us Vista users ? They should get all the bugs out of Vista before investing in a new system .",
+    "aspect":"Vista",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I 'm still within the one year warranty but the repair `` depot '' has deemed that this time it was caused by physical abuse and is not covered .",
+    "aspect":"repair `` depot",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The only thing I wish is the 15 inch MacBook Pro has much better speakers on the side of the keyboard .",
+    "aspect":"speakers",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"The battery does n't last long but I 'm sure an upgrade battery would solve that problem .",
+    "aspect":"battery",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Asus facial recognition does n't work and windows logon is n't either .",
+    "aspect":"facial recognition",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Hard disk - The new editions gives you more hard disk space ( 500 GB instead of 320 GB ) but time has taught me never to trust an internal hard disk .",
+    "aspect":"Hard disk",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"When we bought our new HP comouter in Dec. of 2008 , we wanted Windows XP , but were told it would cost an extra $ 159 , so we went with Vista .",
+    "aspect":"Vista",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":") I also purchased Applecare for $ 300 , which is a three year extended warranty , since I ve never seen any laptop that lasted more than two .",
+    "aspect":"Applecare",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"BUT there 's this application called Boot Camp which allows you to add another OS X like Windows .",
+    "aspect":"Windows",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"also you may need to charge it once a day , if for medium use every thing fast and easy with mac the size and look is the most feature that attracted me to it .",
+    "aspect":"charge",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I eventually did the migration from my iMac backup disc which uses USB .",
+    "aspect":"USB",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I paid for extra memory and the 17-inch screen , as well as the top of the line DVD and CD burners .",
+    "aspect":"17-inch screen",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"i love the size of the computer since i play games on it .",
+    "aspect":"games",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Unless you need the Bluetooth 3 .",
+    "aspect":"Bluetooth 3",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I also got the added bonus of a 30 '' HD Monitor , which really helps to extend my screen and keep my eyes fresh !",
+    "aspect":"screen",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"I do not experience a lot of heat coming out of it , however I would highly suggest purchasing a stand however , due to the nature of the design of the macbook as it is one very large heat sink .",
+    "aspect":"stand",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I would like at least a 4 hr . battery life .",
+    "aspect":". battery life",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"I bought it for my mom and she reports that the battery life lasts all day for her , it 's very lightweight , and the response for the computing she 's doing ( Internet focused activity : mail , research , etc. ) is excellent ;",
+    "aspect":"( Internet focused activity",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The shop will definitely push the problem to the service center .",
+    "aspect":"service center",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The port is secured to motherboard so when this happens you ca n't see the plug at all , it 's just gone .",
+    "aspect":"port",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I was looking too closely at the other performance specs and while comparing , I took it for granted that these features were standard .",
+    "aspect":"performance specs",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"( The iBook backup also uses a firewire connection ) .",
+    "aspect":"firewire connection",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"It takes me approximately 3 tries to get to each site , then after closing the browser and reopening it it actually works .",
+    "aspect":"browser",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I also purchased iWork to go with it which has programs for word processing , spreadsheets , and presentations ( similar to Microsoft Office ) .",
+    "aspect":"Microsoft Office",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"That included the extra Sony Sonic Stage software , the speakers and the subwoofer I got ( that WAS worth the money ) , the bluetooth mouse for my supposedly bluetooth enabled computer , the extended life battery and the Docking port .",
+    "aspect":"bluetooth mouse",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"it has 3 usb ports , 1 sd memory card reader and an sd memory car expansion .",
+    "aspect":"sd memory card reader",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"It is easy to navigate and update programs .",
+    "aspect":"update programs",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"We also use Paralles so we can run virtual machines of Windows XP Professional , Windows 7 Home Premium , Windows Server Enterprise 2003 , and Windows Server 2008 Enterprise .",
+    "aspect":"Paralles",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"of course my warranty runs out next month .",
+    "aspect":"warranty",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"4gb of ram ...",
+    "aspect":"ram",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Is this partially due to the fact that it is running Windows Vista ?",
+    "aspect":"Windows Vista",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I have only had PCs with Windows before so this takes a little getting use to .",
+    "aspect":"Windows",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home , and it runs just fine .",
+    "aspect":"memory",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I run Dreamweaver , Final Cut Pro 7 , Photoshop , Safari , Firefox , MSN Messenger and a few other applications constantly at the same time .",
+    "aspect":", Photoshop",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"However , the multi-touch gestures and large tracking area make having an external mouse unnecessary ( unless you 're gaming ) .",
+    "aspect":"external mouse",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"With a mac you do n't have to worry about antivirus software or firewall , it 's so wonderful .",
+    "aspect":"antivirus software",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"You will need them if you want to reload the OS ( I recommend doing if you can to start fresh and optimal ) .",
+    "aspect":"OS",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"They went through asking me open up various components , taking battery out , hard disk apart , and after 2 hours on phone could not fix it .",
+    "aspect":", hard disk",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Plain and simple , it ( laptop ) runs great and loads fast .",
+    "aspect":") runs",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Now , as easy as it is to use , and I do think it is a great STARTER laptop .",
+    "aspect":"use",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The battery life is amazing , the versitility is outstanding .",
+    "aspect":"battery life",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"it is of high quality , has a killer GUI , is extremely stable , is highly expandable , is bundled with lots of very good applications , is easy to use , and is absolutely gorgeous .",
+    "aspect":"use",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Great pick for portability and affordability .",
+    "aspect":"portability",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The screen is gorgeous - yummy good .",
+    "aspect":"screen",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The store honored their warrenty and made the comment that they do n't even recommend the HP brand because of the problems with their warrentys .",
+    "aspect":"warrenty",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"It has far exceeded my expectations for power , storage , and abilitiy .",
+    "aspect":"power",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"If upgrade is possible to the full Windows 7 , then I will truly be a very happy geek .",
+    "aspect":"Windows 7",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"It runs very quiet too which is a plus .",
+    "aspect":"runs",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Its a good laptop for its value .",
+    "aspect":"value",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"it is of high quality , has a killer GUI , is extremely stable , is highly expandable , is bundled with lots of very good applications , is easy to use , and is absolutely gorgeous .",
+    "aspect":"applications",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"It is good to know that I can mobilize without having to worry about the battery life .",
+    "aspect":"battery life",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"While most people say that PCs hold functionality and value and Macs are just pretty to look at , I think there 's something to be said about the simplicity of Macs .",
+    "aspect":"simplicity",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Peformance is good for the price .",
+    "aspect":"price",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The Macbook starts fast , does n't crash , has a fantastic display , is small and light ( I have the 13.3 '' model ) , and is n't always complaining about updates , lost connections , errors , blue screens , etc. .",
+    "aspect":"display",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The track pad to me is what really stands out though , you can do several different things with it just depending on how many fingers you use on the track pad , awesome thinking Apple !",
+    "aspect":"track pad",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The difference is it 's a whole lot of fun using the laptop now , still learning the Apple navigation , but is fun and comes with a lot of cool apps .",
+    "aspect":"apps",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"I 've had to call Apple support to set up my new printer and have had wonderful experiences with helpful , english speaking ( from Vancouver ) techs that walked me through the processes to help me .",
+    "aspect":"Apple support",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"After having two PC laptops die with in the past 3 years , I was led to the Apple display at Best Buy by the sleek design and promise of less tech issues .",
+    "aspect":"design",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The processor screams , and because of the unique way that Apple OSX 16 functions , most of the graphics are routed through the hardware rather than the software .",
+    "aspect":"processor",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Learning all of the keyboard shortcuts only took a few minutes to get used to as some of the shortcuts are the same on Windows machines .",
+    "aspect":"keyboard shortcuts",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Most everything is fine with this machine : speed , capacity , build .",
+    "aspect":", build",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Price and purpose is awesome !",
+    "aspect":"Price",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Great pick for portability and affordability .",
+    "aspect":"affordability",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"WIth the upgraded memory , the MacBook Pro never has an issue running many many applications at once !",
+    "aspect":"upgraded memory",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted .",
+    "aspect":"feature",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"although its windows vista compared to windows xp sucks .",
+    "aspect":"windows xp",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I 'm already hooked on the sleek look and dependability that this laptop has shown .",
+    "aspect":"dependability",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"I previously purchased a 13 '' macbook ( had pro specs and was aluminum style ) which had a nvidia 9800 ( If I am not mistaken ) and it had major heating issues .",
+    "aspect":"aluminum style",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"the speed is fine .",
+    "aspect":"speed",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Its pretty fast and does not have hiccups while I am using it for web browsing , uploading photos , watching movies ( 720p ) on occasion and creating presentations .",
+    "aspect":", watching movies",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good .",
+    "aspect":"word processer",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  }
+]

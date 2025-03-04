@@ -1,0 +1,2309 @@
+[
+    {
+        "raw_words": "won ' t turn on , won ' t charge , have to send it to tx to be repaired .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "also tech support gave incorrect product info !",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 3,
+                "term": [
+                    "tech",
+                    "support"
+                ]
+            },
+            "category": "SUPPORT#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "it runs pretty fast but the keyboard is not lit , the speakers are on the bottom and the track pad is a pos .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 12,
+                "to": 13,
+                "term": [
+                    "speakers"
+                ]
+            },
+            "category": "MULTIMEDIA_DEVICES#DESIGN_FEATURES",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "so android is fun for tablet features , but its like embedding an android inside , without letting android apps out to utilize the full abilities of the chromium system .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 2,
+                "term": [
+                    "android"
+                ]
+            },
+            "category": "OS#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "chromebook seems like the kind of device that you review after a few weeks , and by the time anything happens to it that affects use , the replacement will be just as much or cheaper , twice as powerful , and come with ` ` angry birds ` ` installed by default .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "chromebook"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "there are only two cons , the sound quality and the overheating .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 11,
+                "to": 12,
+                "term": [
+                    "overheating"
+                ]
+            },
+            "category": "LAPTOP#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 4,
+                "to": 5,
+                "term": [
+                    "cons"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "ssd hardware issue",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "ssd"
+                ]
+            },
+            "category": "HARD_DISC#QUALITY",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "it keeps disconnecting .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#CONNECTIVITY",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "samsung sent me a new stylus free of charge and free of hassle , which was nice of them because the top of the oem stylus popped off one day and could not be reassembled .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 24,
+                "to": 26,
+                "term": [
+                    "oem",
+                    "stylus"
+                ]
+            },
+            "category": "HARDWARE#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "the sound and screen quality is low .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 3,
+                "to": 5,
+                "term": [
+                    "screen",
+                    "quality"
+                ]
+            },
+            "category": "DISPLAY#QUALITY",
+            "opinion": {
+                "from": 6,
+                "to": 7,
+                "term": [
+                    "low"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "called support a second time after 10 minutes of verifying some type of info they told me to call google without even trying to help .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 2,
+                "term": [
+                    "support"
+                ]
+            },
+            "category": "SUPPORT#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "unfortunately this chromebook is very sluggish .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 2,
+                "to": 3,
+                "term": [
+                    "chromebook"
+                ]
+            },
+            "category": "LAPTOP#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "sluggish"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "to bad the battery did n ' t work out .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "battery"
+                ]
+            },
+            "category": "BATTERY#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 1,
+                "to": 2,
+                "term": [
+                    "bad"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "very disappointed with the wireless radio in this chromebook .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 4,
+                "to": 9,
+                "term": [
+                    "wireless",
+                    "radio",
+                    "in",
+                    "this",
+                    "chromebook"
+                ]
+            },
+            "category": "MULTIMEDIA_DEVICES#GENERAL",
+            "opinion": {
+                "from": 1,
+                "to": 2,
+                "term": [
+                    "disappointed"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "don ' t let them scam you .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "SUPPORT#GENERAL",
+            "opinion": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "scam"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "sounds like a good deal for a $ 620 laptop but battery doesn ' t perform as promised i am hardly getting 4 hrs .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 11,
+                "to": 12,
+                "term": [
+                    "battery"
+                ]
+            },
+            "category": "BATTERY#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "and i genuinely believed in acer , but first i had a lot of issues setting up the computer and after hours of customer service help the touch pad did n ' t even work .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 27,
+                "to": 29,
+                "term": [
+                    "touch",
+                    "pad"
+                ]
+            },
+            "category": "KEYBOARD#QUALITY",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "so one star off for the keyboard .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 6,
+                "to": 7,
+                "term": [
+                    "keyboard"
+                ]
+            },
+            "category": "KEYBOARD#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "apple used to make a wonderful product but my computer is now a useless paperweight until i have a new charger sent to me .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 9,
+                "to": 10,
+                "term": [
+                    "computer"
+                ]
+            },
+            "category": "LAPTOP#QUALITY",
+            "opinion": {
+                "from": 13,
+                "to": 14,
+                "term": [
+                    "useless"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "what is the point of downloading games , files , anything , when a couple of weeks later it will crash and fail to recover !",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 20,
+                "to": 21,
+                "term": [
+                    "crash"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "with this asus i ' m experiencing 2 very disappointing issues .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 2,
+                "to": 3,
+                "term": [
+                    "asus"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 9,
+                "to": 10,
+                "term": [
+                    "disappointing"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "i tried the unit at best buy and to be honest , it felt a bit flimsy as a laptop .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 19,
+                "to": 20,
+                "term": [
+                    "laptop"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 16,
+                "to": 17,
+                "term": [
+                    "flimsy"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "also , i hate the keyboard - it feels really cheap .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "keyboard"
+                ]
+            },
+            "category": "KEYBOARD#GENERAL",
+            "opinion": {
+                "from": 10,
+                "to": 11,
+                "term": [
+                    "cheap"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "horrible way to run a company so i returned the item .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "company"
+                ]
+            },
+            "category": "COMPANY#GENERAL",
+            "opinion": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "horrible"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "although it can be a little slow at times , overall it runs great , and can run most popular games at a decent fps on medium settings .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 6,
+                "to": 7,
+                "term": [
+                    "slow"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "the charger is defective and after 45 days of use the charger is shot .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 2,
+                "term": [
+                    "charger"
+                ]
+            },
+            "category": "POWER_SUPPLY#QUALITY",
+            "opinion": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "defective"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "this issue happens more frequently when using netflix ( app or through chrome browser ) .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 2,
+                "to": 3,
+                "term": [
+                    "happens"
+                ]
+            },
+            "category": "SOFTWARE#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "i knocked off a star for build quality control .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 6,
+                "to": 9,
+                "term": [
+                    "build",
+                    "quality",
+                    "control"
+                ]
+            },
+            "category": "LAPTOP#QUALITY",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "i had issues with the touchpad sticking or not responding to click correctly from the start .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "touchpad"
+                ]
+            },
+            "category": "HARDWARE#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": ", the advertised ram is 16gb and in the answer questions section has answers from the manufacturer saying ` ` this will have 16gb of memory ! ` `",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "ram"
+                ]
+            },
+            "category": "MEMORY#DESIGN_FEATURES",
+            "opinion": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "16gb"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "at this stage i am disappointed than raging up and it wasn ' t the end yet the keyboard didn ' t work at all .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 18,
+                "to": 19,
+                "term": [
+                    "keyboard"
+                ]
+            },
+            "category": "KEYBOARD#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "disappointed"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "i bought this to save me money and now i wasted $ 700 to still have to go out and buy a new one .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#QUALITY",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "i ' m surprised people are settling for claiming ` ` it ' s good enough ` ` or ` ` gets the job done ` ` when every time i use it , i ' m constantly reminded of how i should have just sprang for the pixelbook when it was on sale for $ 699 .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#PRICE",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEG"
+        }],
+        "sentiment": "NEG"
+    },
+    {
+        "raw_words": "i added an sd card which has expanded on the 16gb of storage .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 3,
+                "to": 5,
+                "term": [
+                    "sd",
+                    "card"
+                ]
+            },
+            "category": "MEMORY#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "i would however spend $ 300 on this device .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 8,
+                "to": 9,
+                "term": [
+                    "device"
+                ]
+            },
+            "category": "LAPTOP#PRICE",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "overall , this thing can do very basic stuff , sometimes .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "battery life doesn ' t seem to be more than 5 hours , but i expected that going in .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 2,
+                "term": [
+                    "battery",
+                    "life"
+                ]
+            },
+            "category": "BATTERY#QUALITY",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "display is ok not great .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "display"
+                ]
+            },
+            "category": "DISPLAY#GENERAL",
+            "opinion": {
+                "from": 3,
+                "to": 5,
+                "term": [
+                    "not",
+                    "great"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "display is ok not great .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "display"
+                ]
+            },
+            "category": "DISPLAY#GENERAL",
+            "opinion": {
+                "from": 2,
+                "to": 3,
+                "term": [
+                    "ok"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "- ips full hd screen .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 3,
+                "to": 5,
+                "term": [
+                    "hd",
+                    "screen"
+                ]
+            },
+            "category": "DISPLAY#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "seems unlikely but whatever , i ' ll go with it .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "it ' s lightweight , has a long battery life and although it ' s smaller than a standard laptop , the keyboard is easy to use .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#DESIGN_FEATURES",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "sure , another generation back was arguably better , but i find this computer to be adequate to my needs right now ( though it is a disappointment that i can ' t upgrade the ram , which definitely limits the lifetime of how long this product will last ) .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 13,
+                "to": 14,
+                "term": [
+                    "computer"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "screen is not amazing but for the price , it gets the job done fine .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "screen"
+                ]
+            },
+            "category": "DISPLAY#GENERAL",
+            "opinion": {
+                "from": 2,
+                "to": 4,
+                "term": [
+                    "not",
+                    "amazing"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "update : the c302 now supports google play store services on the stable channel .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "c302"
+                ]
+            },
+            "category": "SUPPORT#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "* keyboard * - the keyboard is alright .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "KEYBOARD#GENERAL",
+            "opinion": {
+                "from": 7,
+                "to": 8,
+                "term": [
+                    "alright"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "the solution i am trying for now is to disable the touch screen .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 11,
+                "to": 13,
+                "term": [
+                    "touch",
+                    "screen"
+                ]
+            },
+            "category": "DISPLAY#QUALITY",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "i contacted amazon and have been issued a refund and ordered a replacement .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 2,
+                "to": 3,
+                "term": [
+                    "amazon"
+                ]
+            },
+            "category": "COMPANY#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "the overall durability is a bit suspect but with the price tag , it is essentially a 1 - 2 year investment for school .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#PRICE",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "some apps don ' t work but the play store is still in beta right now",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 8,
+                "to": 10,
+                "term": [
+                    "play",
+                    "store"
+                ]
+            },
+            "category": "SOFTWARE#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "i only use the chormebook for surving the internet , checking my email , and watch hulu or netflix .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 4,
+                "to": 5,
+                "term": [
+                    "chormebook"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "6 - inch hd touch , intel celeron n3150 , 4gb ddr3l , 32gb , chrome , cb5 - 132t - c1lk",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 15,
+                "to": 16,
+                "term": [
+                    "chrome"
+                ]
+            },
+            "category": "OS#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "it is an okay laptop and nothing more .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 4,
+                "to": 5,
+                "term": [
+                    "laptop"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "okay"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "i bought this for my daughter to use to take online classes while she ' s overseas in europe for a year .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "bought this for my ten year old for school and creating .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "i have sent it in twice already and waiting for it to come back .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "battery life its ok .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 2,
+                "term": [
+                    "battery",
+                    "life"
+                ]
+            },
+            "category": "BATTERY#GENERAL",
+            "opinion": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "ok"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "+ it has a dvd drive : o",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 4,
+                "to": 6,
+                "term": [
+                    "dvd",
+                    "drive"
+                ]
+            },
+            "category": "OPTICAL_DRIVES#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "my trusty windows 7 laptop was on its last leg and i opted to try something new .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 2,
+                "to": 5,
+                "term": [
+                    "windows",
+                    "7",
+                    "laptop"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "- system settings could be more robust and better organized",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 3,
+                "term": [
+                    "system",
+                    "settings"
+                ]
+            },
+            "category": "OS#DESIGN_FEATURES",
+            "opinion": {
+                "from": 8,
+                "to": 9,
+                "term": [
+                    "better"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "sound is .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "sound"
+                ]
+            },
+            "category": "MULTIMEDIA_DEVICES#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "this is a great device and the $ 450 asking price seems fair .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 4,
+                "to": 5,
+                "term": [
+                    "device"
+                ]
+            },
+            "category": "LAPTOP#PRICE",
+            "opinion": {
+                "from": 12,
+                "to": 13,
+                "term": [
+                    "fair"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "update : i repaired it myself for $ 12 .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "we contacted both acer and amazon , and they both informed us that it has to be sent back for repairs again .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "amazon"
+                ]
+            },
+            "category": "SUPPORT#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "the one drawback is that it uses more energy than most apps on the mbp ( especially word , not so much with excel or ppt ) , so i ' ve been using google docs / drive in safari ( chrome is also an energy hog ) if i ' m away from a power source and the task is light enough .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 34,
+                "to": 38,
+                "term": [
+                    "google",
+                    "docs",
+                    "/",
+                    "drive"
+                ]
+            },
+            "category": "SOFTWARE#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "google is expecting to add that in sometime in the next year .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "google"
+                ]
+            },
+            "category": "COMPANY#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "NEU"
+        }],
+        "sentiment": "NEU"
+    },
+    {
+        "raw_words": "it feels very nice and i also really like the backlit keys in the dark .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "nice"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "good quality all around hardware + software , of course that is what apple is known for .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 6,
+                "to": 7,
+                "term": [
+                    "software"
+                ]
+            },
+            "category": "SOFTWARE#QUALITY",
+            "opinion": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "good"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "i ' m very very happy with this fast lightweight convertible chromebook and my search has concluded .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 11,
+                "to": 12,
+                "term": [
+                    "chromebook"
+                ]
+            },
+            "category": "LAPTOP#DESIGN_FEATURES",
+            "opinion": {
+                "from": 10,
+                "to": 11,
+                "term": [
+                    "convertible"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "to me , this chromebook is a great value .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 4,
+                "to": 5,
+                "term": [
+                    "chromebook"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 7,
+                "to": 8,
+                "term": [
+                    "great"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "it ' s beautiful and i love it , but i think i have to send it back .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#DESIGN_FEATURES",
+            "opinion": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "beautiful"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "it worked beautifully and smoothly .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 4,
+                "to": 5,
+                "term": [
+                    "smoothly"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "pros : lightweight , fast , portable , great battery life ( 12 .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 9,
+                "to": 11,
+                "term": [
+                    "battery",
+                    "life"
+                ]
+            },
+            "category": "BATTERY#GENERAL",
+            "opinion": {
+                "from": 8,
+                "to": 9,
+                "term": [
+                    "great"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "performance wise , this is an excellent machine - it has a beautiful touchscreen , plenty of storage , converts to a tablet , and seamlessly connects to the google play store to run any of the millions of android apps available .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 13,
+                "to": 14,
+                "term": [
+                    "touchscreen"
+                ]
+            },
+            "category": "DISPLAY#DESIGN_FEATURES",
+            "opinion": {
+                "from": 12,
+                "to": 13,
+                "term": [
+                    "beautiful"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "i ' m not a computer nerd but for a joe punch clock this is nice",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 13,
+                "to": 14,
+                "term": [
+                    "this"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 15,
+                "to": 16,
+                "term": [
+                    "nice"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "i ' m four months into owning this lean , mean , little machine .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 13,
+                "to": 14,
+                "term": [
+                    "machine"
+                ]
+            },
+            "category": "LAPTOP#DESIGN_FEATURES",
+            "opinion": {
+                "from": 8,
+                "to": 9,
+                "term": [
+                    "lean"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "such a good investment , its so useful and works perfectly .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 7,
+                "to": 8,
+                "term": [
+                    "useful"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "it ' s super thin and super light .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#DESIGN_FEATURES",
+            "opinion": {
+                "from": 7,
+                "to": 8,
+                "term": [
+                    "light"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "look and feel of asus unit seems high quality but keyboard failed in 45 days .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 4,
+                "to": 6,
+                "term": [
+                    "asus",
+                    "unit"
+                ]
+            },
+            "category": "LAPTOP#QUALITY",
+            "opinion": {
+                "from": 7,
+                "to": 8,
+                "term": [
+                    "high"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "i have been using samsung chromebooks for 5 years , my 2012 chromebook was finally hard to charge , but it might have had something to do with having been dropped several times , and still running great , but hard to charge .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 11,
+                "to": 13,
+                "term": [
+                    "2012",
+                    "chromebook"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 37,
+                "to": 38,
+                "term": [
+                    "great"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "nice computer for responsible grade school child .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 2,
+                "term": [
+                    "computer"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "nice"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "fast boot and reliable os .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 4,
+                "to": 5,
+                "term": [
+                    "os"
+                ]
+            },
+            "category": "OS#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "fast"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "with how slim this thing is i really don ' t see a need for the macbook air line .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#DESIGN_FEATURES",
+            "opinion": {
+                "from": 2,
+                "to": 3,
+                "term": [
+                    "slim"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "the pic quality is pretty good , though not 4k , the sound is pretty good for a laptop that is less than a half inch thick and weighs less than 3 pounds .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 12,
+                "to": 13,
+                "term": [
+                    "sound"
+                ]
+            },
+            "category": "MULTIMEDIA_DEVICES#GENERAL",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "great product ( perfect for student use ) but did n ' t last past 2 months .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 2,
+                "term": [
+                    "product"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "great"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "one year later and the laptop is still in great condition !",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "laptop"
+                ]
+            },
+            "category": "LAPTOP#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 9,
+                "to": 10,
+                "term": [
+                    "great"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "` ` this thing is neat . ` `",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#USABILITY",
+            "opinion": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "neat"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "great price and customer service",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#PRICE",
+            "opinion": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "great"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "the screen is clear and bright and the system doesn ' t lag unless i have a large number of tabs open .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 8,
+                "to": 9,
+                "term": [
+                    "system"
+                ]
+            },
+            "category": "OS#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "the asus c302 is the best chromebook you can buy .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 3,
+                "term": [
+                    "asus",
+                    "c302"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "best"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "it ' s very light and sitting on the couch typing this is comfortable .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#DESIGN_FEATURES",
+            "opinion": {
+                "from": 4,
+                "to": 5,
+                "term": [
+                    "light"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "screen display is bright and has excellent graphics .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 7,
+                "to": 8,
+                "term": [
+                    "graphics"
+                ]
+            },
+            "category": "GRAPHICS#GENERAL",
+            "opinion": {
+                "from": 6,
+                "to": 7,
+                "term": [
+                    "excellent"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "i sit with it in my lap all day long and it never gets hot .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#QUALITY",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "chromebooks are light weight and start up immediately and are very easy to use .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "chromebooks"
+                ]
+            },
+            "category": "LAPTOP#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "love the price reduction and the lenova one year warranty .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#PRICE",
+            "opinion": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "love"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "good sound quality",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 1,
+                "to": 3,
+                "term": [
+                    "sound",
+                    "quality"
+                ]
+            },
+            "category": "MULTIMEDIA_DEVICES#QUALITY",
+            "opinion": {
+                "from": 0,
+                "to": 1,
+                "term": [
+                    "good"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "it ' s nice and lightweight , the sd port is useful , and it ' s powerful enough for me to do fairly layer intensive graphic design work in photoshop and basic grading in lightroom .",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": -1,
+                "to": -1,
+                "term": [
+                    "NULL"
+                ]
+            },
+            "category": "LAPTOP#GENERAL",
+            "opinion": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "nice"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "it runs most of those apps and games beautifully and when combined with a ` ` logitech gamepad f310 ` ` you can play the games with a game controller !",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 5,
+                "to": 6,
+                "term": [
+                    "apps"
+                ]
+            },
+            "category": "SOFTWARE#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 8,
+                "to": 9,
+                "term": [
+                    "beautifully"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    },
+    {
+        "raw_words": "so far the performance has been spectacular !",
+        "task": "ACOS",
+        "quadruples": [{
+            "aspect": {
+                "from": 3,
+                "to": 4,
+                "term": [
+                    "performance"
+                ]
+            },
+            "category": "LAPTOP#OPERATION_PERFORMANCE",
+            "opinion": {
+                "from": 6,
+                "to": 7,
+                "term": [
+                    "spectacular"
+                ]
+            },
+            "sentiment": "POS"
+        }],
+        "sentiment": "POS"
+    }
+]

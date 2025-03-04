@@ -1,0 +1,695 @@
+[
+  {
+    "sentence":"It is far more popular as a bar than as a restaurant , with only a few tables and the waiter being the bartender , but we greatly enjoyed the unobtrusive atmosphere .",
+    "aspect":"tables",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"They did n't give us the dinner special until we asked for it .",
+    "aspect":"dinner special",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I ordered a Chicken Teriyaki dish and found that the chicken was extremely dry .",
+    "aspect":"Chicken Teriyaki dish",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Immediately after we paid , the waiter took the money and said , okay , you guys are outta here .",
+    "aspect":"waiter",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated , we were served dishes we had n't ordered three times , received one of our orders 20 minutes after the rest of the table had been served ( and that order was undercooked ) , and charged $ 45 more than we should have been on our bill .",
+    "aspect":"served",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The food came out wrong , the waiter was no where to be found and the wine showed up at the end of the meal .",
+    "aspect":"wine",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"All my co-workers were amazed at how small the dish was .",
+    "aspect":"dish",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I also ordered for delivery and the restaurant forgot half the order .",
+    "aspect":"delivery",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"For those prices and the dressed up atmosphere you expect more and should get more .",
+    "aspect":"prices",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"But do n't ever order bacon late at nite ( either platter or in sandwiches , for that matter do n't from any take out place ) as it is from the morning frying turns out hard almost like bacos , hurt my molars .",
+    "aspect":"frying",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The dosas are skimpy , unattractive and drip with grease , and personally I 'd drink popcorn topping before I 'd eat another one of these .",
+    "aspect":"dosas",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The last time I went we were seated at a table in a corridor next to the kitchen .",
+    "aspect":"table",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"If you live in new york city , you 'll find better food at small restaurants outside of time square and spend half the amount .",
+    "aspect":"amount",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"For those prices and the dressed up atmosphere you expect more and should get more .",
+    "aspect":"atmosphere",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Horrible food and Horrible service .",
+    "aspect":"service",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Good luck getting a table .",
+    "aspect":"getting a table",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"With so many good restaurants on the UWS , I do n't need overpriced food , absurdly arrogant wait-staff who do n't recognize they work at a glorified diner , clumsy service , and management that does n't care .",
+    "aspect":"diner",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The soup for the udon was soy sauce and water .",
+    "aspect":"soup for the udon",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"First , the waiter who served us neglected to fill us in on the specials , which I would have chosen had I known about them .",
+    "aspect":"served",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Just bring someone who speaks Cantonese because waiter may not understand you .",
+    "aspect":"waiter",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I must warn the reader that the portions sizes are very small ( especially the appetizers ) , so if you plan to eat until you are full and do not intend to order the chef 's special tasting menu , prepare to order and pay for an appetizer ( 1 dish for each person because the portions are not for sharing ) , a main entree , and the cold udon at the end of the meal .",
+    "aspect":"appetizer",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"My entree of hot pot with seafood was full of imitation crabmeat with a couple pieces of shrimp and squid , and was unnecessarily heated with a burner .",
+    "aspect":"crabmeat",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"We were fans of the half-price Saturday night option until some inedible squid during a recent visit .",
+    "aspect":"squid",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The rice was poor quality and was cooked so badly it was hard .",
+    "aspect":"quality",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"During the course of the past 3 months , the chef and staff changed and it was not for the better .",
+    "aspect":"staff",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"It appears to be the owner 's first venture and it shows .",
+    "aspect":"owner",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"After complaining about the chicken dish , the manager came over to tell us that , no one had ever complained before , and that we just did n't know what the dish was supposed to taste like .",
+    "aspect":"manager",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The only weird thing was if we got a bottle , the waitress would have simply multiplied the glass price X4 , which makes no sense whatsoever .",
+    "aspect":"waitress",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The hostess is rude to the point of being offensive .",
+    "aspect":"hostess",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"While this is a pretty place in that overly cute French way , the food was insultingly horrible .",
+    "aspect":"food",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The service is awful -- the last time I was there ( and I do mean the last time ) we were told that they needed our table so we would have to leave .",
+    "aspect":"table",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES .",
+    "aspect":"FOOD QUALITY",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The food was below average , the service was pathetic , there was no ambience at all .",
+    "aspect":"service",
+    "label_id":0,
+    "label":"negative",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The menu looked good , except for offering the Chilean Sea Bass , but the server does not offer up the specials that were written on the board outside .",
+    "aspect":"specials",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The dim sum here is only so-so .",
+    "aspect":"dim sum",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"They forgot a sandwich , did n't include plastic forks , and did n't include pita with the hummus platter .",
+    "aspect":"plastic forks",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The entertainment was great they have shows that go on through out the dinner .",
+    "aspect":"dinner",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"I had a late dinner at Lucky Stike , a great name for a joint if ever I saw one .",
+    "aspect":"dinner",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"night without a reservation , we had to wait at the bar for a little while , but the manager was so nice and made our wait a great experience .",
+    "aspect":"bar",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"The service was mediocre , and the lack of air conditioning made for a less than comfortable meal .",
+    "aspect":"service",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"We laughed when he finally offered us a dessert menu and we left a 10 percent tip , which was generous , I feel .",
+    "aspect":"dessert menu",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I went to Del Frisco 's Friday night with my boyfriend for an 8:00 reservation .",
+    "aspect":"reservation",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"We were in search of food and stumbled on this block of Indian restaurants on East Sixth Street .",
+    "aspect":"food",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"They are served with a free appetizer and the portions are perfect for lunch .",
+    "aspect":"served",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"No free drink .",
+    "aspect":"drink",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The space is a bit too small for live music , so on jazz nights , it can be loud and cramped .",
+    "aspect":"jazz nights",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"It 's the perfect restaurant for NY life style , it got cool design , awsome drinks and food and lot 's of good looking people eating and hanging at the pink bar ...",
+    "aspect":"bar",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"It took half an hour to get our check , which was perfect since we could sit , have drinks and talk !",
+    "aspect":"check",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"The selection changes frequently but the basic dishes are always available .",
+    "aspect":"selection",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"I have never before eaten 40 pieces of relatively good nigiri .",
+    "aspect":"nigiri",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Our first time in New York and we had to try a New York Bagel .",
+    "aspect":"New York Bagel",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I 've had to wait only a few times during lunch but this place is definitely worth the wait .",
+    "aspect":"lunch",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Stay away from the two specialty rolls on the menu , though - too much avocado and rice will fill you up right quick .",
+    "aspect":"menu",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Had 1 appetizer , 2 entrees and 2 cokes and the bill was ~ $ 55.00 , not including tip .",
+    "aspect":"cokes",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I could have drank 4 glasses of water and still been parched - so watch out .",
+    "aspect":"glasses of water",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"And forget what you read under me , the atmosphere is n't that bad either .",
+    "aspect":"atmosphere",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"I stumbled upon this second floor walk-up two Fridays ago when I was with two friends in town from L.A. Being serious sushi lovers , we sat at the sushi bar to be closer to the action .",
+    "aspect":"sushi",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"After passing by this restaurant for sometime I finally decided to go in and have dinner .",
+    "aspect":"dinner",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"For some reason , all the seafood on the menu was unavailable except for the Salmon .",
+    "aspect":"Salmon",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Only complaint would be that at an average cost of $ 12 - $ 15 per meal , I 'd like not to have to worry about finding a seat !",
+    "aspect":"meal",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Try the olive cream cheese or the lox spread on a whole wheat everything bagel .",
+    "aspect":"bagel",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"They were very abrupt with me when I called and actually claimed the food was late because they were out of rice .",
+    "aspect":"rice",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"This is a consistently great place to dine for lunch or dinner .",
+    "aspect":"dinner",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"To celebrate a birthday , three of us went to Mare anticipating great food .",
+    "aspect":"food",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"I ordered the crab cocktail and it was soaked in a lime juice concoction where all you could taste was the lime .",
+    "aspect":"lime",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"The staff is very kind and well trained , they 're fast , they are always prompt to jump behind the bar and fix drinks , they know details of every item in the menu and make excelent recomendations .",
+    "aspect":"drinks",
+    "label_id":1,
+    "label":"neutral",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The food and staff always surprise me with the new heights they are taken to .",
+    "aspect":"food",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"We 've been to Grocery three times and not once has an item on the menu disappointed .",
+    "aspect":"menu",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Based on the reviews for dinner , this is a place I would reconsider revisiting for that , but definitely not for Dim Sum again .",
+    "aspect":"dinner",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"An oasis of refinement : Food , though somewhat uneven , often reaches the pinnacles of new American fine cuisine - chef 's passion ( and kitchen 's precise execution ) is most evident in the fish dishes and soups .",
+    "aspect":"fish dishes",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Awsome Pizza especially the Margheritta slice .",
+    "aspect":"Margheritta",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Found service above average , but that could be because we were 13 of us .",
+    "aspect":"service",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"While this is n't classical restaurant fare , the chef has given new life to an old cuisine with some really innovative and tasty dishes that are genuinely Indian without being heavy or same old restaurant burn-outs .",
+    "aspect":"dishes",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The fried rice is really good too .",
+    "aspect":"fried rice",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The drinks are a saving grace , but service staff , please , get over yourselves .",
+    "aspect":"drinks",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The staff is also attentive and friendly .",
+    "aspect":"staff",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"We started with lox and mussels ( the best ive ever had , ever ) and had the cod and trout for dinner .",
+    "aspect":"mussels",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Spice is sleek , modern and cool with a menu that will not hurt your wallet .",
+    "aspect":"menu",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Ambience is so cute and quaint , good for business although we were there on vacation .",
+    "aspect":"Ambience",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The food is consistently wonderful - I 've been coming here for years , and the owner has always been accomodating and friendly .",
+    "aspect":"food",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Their pad penang is delicious and everything else is fantastic .",
+    "aspect":"pad penang",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Even though its good seafood , the prices are too high .",
+    "aspect":"seafood",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"negative"
+  },
+  {
+    "sentence":"Luckily we saved room for the BBQ Salmon , Sea Bass and Crispy Duck .",
+    "aspect":", Sea Bass",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Located at the end of a magnificent block .",
+    "aspect":"Located",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Decor is charming .",
+    "aspect":"Decor",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Complimentary stuff kept coming , and when the waiter saw me opening a gift , I received my dessert on a plate that had Happy Birthday written on it , with a candlevery nice touch , and attentive staff .",
+    "aspect":"dessert",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"We walked in on a Wednesday night and were seated promptly .",
+    "aspect":"seated",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went .",
+    "aspect":"view",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Food was OK - fish was cooked well .",
+    "aspect":"- fish",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"The sauce is delicious and the crust is perfect .",
+    "aspect":"crust",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic , just simple , small and sparse .",
+    "aspect":"place",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"neutral"
+  },
+  {
+    "sentence":"If you 're looking for a great meal at a decent price , go to Del Frisco 's !",
+    "aspect":"meal",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"You rarely have to wait for a seat and the currys ( masaman , green , red ) are full of flavor and come super spicy if you ask for it .",
+    "aspect":"seat",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The sushi is also great !",
+    "aspect":"sushi",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"When I saw that their website had a link to da Ciro in Napoli , I knew there was going to be good pizza !",
+    "aspect":"pizza",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Decor is nice and minimalist , food simple yet very well presented and cooked , and the wine list matches the food very well .",
+    "aspect":", food",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Baluchi 's has solid food and a nice decor at reasonable prices .",
+    "aspect":"prices",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"Taj Mahal offeres gret value and great food .",
+    "aspect":"value",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  },
+  {
+    "sentence":"The quantity is also very good , you will come out satisfied .",
+    "aspect":"quantity",
+    "label_id":2,
+    "label":"positive",
+    "prediction":"positive"
+  }
+]
